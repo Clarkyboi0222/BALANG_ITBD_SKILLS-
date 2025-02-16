@@ -1,0 +1,27 @@
+body {
+    background-color: #27445D;
+    font-family: Brush Script MT, Lucida Handwriting
+    color: #27445D;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-shadow: 2px 6px 10px #71BBB2;
+    text-align: center;
+    font-size: 32px;
+    color: #71BBB2;
+}
+
+h3 {
+    text-shadow: 2px 6px 10px pink;
+    color: #71BBB2;
+    font-size: 24px;
+    text-decoration: underline overline;
+}
+
+p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
